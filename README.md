@@ -1,6 +1,8 @@
 # Express Auth Example
 
 This is a small example on how to setup traditional email/password authentication.
+The setup shown here is rather minimal, and should only serve to learn about auth.
+Production apps should use more secure methods than password authentication.
 
 ## Features
 
