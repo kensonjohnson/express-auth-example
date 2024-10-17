@@ -1,0 +1,8 @@
+# The weight of the universe
+node_modules/
+
+# Build output
+build/
+
+# Env file
+.env
